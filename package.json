@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "axios": "^0.17.1",
-    "bootstrap-vue": "^2.0.0-rc.1",
+    "bootstrap-vue": "^2.0.0-rc.12",
     "element-ui": "^2.2.0",
     "email-validator": "^1.1.1",
     "notifyjs": "^3.0.0",
